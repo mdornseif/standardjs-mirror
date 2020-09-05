@@ -1,7 +1,7 @@
 {
     "name": "dummy_package",
     "description": "Note: double curly-braces because python .format",
-    "version": "^14.3.4",
+    "version": "14.3.4",
     "dependencies": {
         "babel-eslint": "^10.1.0"
     }
